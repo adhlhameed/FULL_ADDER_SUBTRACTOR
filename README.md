@@ -48,8 +48,21 @@ Write the detailed procedure here
 */
 
 **RTL Schematic**
+```
+Developed By:Adhl Hameed
+Registration no: 212223050002
+![image](https://github.com/adhlhameed/FULL_ADDER_SUBTRACTOR/assets/168260238/425afa74-081e-4ae2-93aa-b394ad8fe424)
+![image](https://github.com/adhlhameed/FULL_ADDER_SUBTRACTOR/assets/168260238/209461b8-34b4-47d4-9d4b-82ea1d6f80dd)
+
+
+
 
 **Output Timing Waveform**
+```
+![image](https://github.com/adhlhameed/FULL_ADDER_SUBTRACTOR/assets/168260238/f8bc39d0-7976-45b7-8cbe-ecfcc67a3b7c)
+![image](https://github.com/adhlhameed/FULL_ADDER_SUBTRACTOR/assets/168260238/9e5e4535-22c7-4591-9d46-0e350d81f411)
+
+
 
 **Result:**
 
